@@ -1,0 +1,5 @@
+com/example/hotel/controller/ReservationController.class
+com/example/hotel/repository/ReservationRepository.class
+com/example/hotel/model/Reservation.class
+com/example/hotel/service/ReservationService.class
+com/example/hotel/HotelApplication.class
